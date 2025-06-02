@@ -1,8 +1,8 @@
 const mineflayer = require('mineflayer');
 
 const bot = mineflayer.createBot({
-  host: 'твій-сервер.aternos.me', // ← заміни на адресу свого Aternos-сервера
-  port: 25565,
+  host: 'Bidbout86562.aternos.me', // ← заміни на адресу свого Aternos-сервера
+  port: 18162,
   username: 'AFK_Bot'
 });
 
